@@ -2,7 +2,7 @@
 Proponent of Robot Uprising from the University of Florida! 
 
 ## About Me 
-- 🔭 I’m currently working on automating my workflow to the point code writes itself!
+- 🔭 I’m currently working on creating statistics with public APIs!
 - 🌱 I’m currently learning App Development, Web Scraping, InfoSec!
 - 👯 I’m looking to collaborate on automation and data-driven projects!
 - 🤔 I’m looking for help with new optimizations in Shell or Python scripts!
