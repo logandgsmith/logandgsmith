@@ -1,16 +1,12 @@
-### Hi there 👋
+# Howdy 🤠
+Proponent of Robot Uprising from the University of Florida! 
 
-<!--
-**logandgsmith/logandgsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 
+- 🔭 I’m currently working on automating my workflow to the point code writes itself!
+- 🌱 I’m currently learning App Development, Web Scraping, InfoSec!
+- 👯 I’m looking to collaborate on automation and data-driven projects!
+- 🤔 I’m looking for help with new optimizations in Shell or Python scripts!
+- 💬 Ask me about @ufosc, the largest Open Source Initiative at UF!
+- 📫 How to reach me: Coming soon!
+- 😄 Pronouns: He/Him
+- ⚡ Favorite Languages: Python, Rust, and occasionally C++ when it behaves!
