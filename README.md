@@ -12,4 +12,5 @@ Proponent of Robot Uprising from the University of Florida!
 - ⚡ Favorite Languages: Python, Rust, and occasionally C++ when it behaves!
 
 ## Certifications
-- Security+ -- In Progress!
+- Security+
+- Currently Studying for SSCP
